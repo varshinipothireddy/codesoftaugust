@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Admiration Page</title>
+</head>
+<body>
+  <header>
+    <h1>Admiring <span>Someone Special</span></h1>
+  </header>
+  <section class="main-content">
+    <div class="person-info">
+      <img src="person-image.jpg" alt="Person You Admire">
+      <h2>crack</h2>
+      <p>
+        I admire this person because of their incredible determination and kindness. They have a unique ability to
+        inspire those around them, and their passion for making a positive impact on the world is truly inspiring.
+      </p>
+    </div>
+    <div class="qualities">
+      <h3>Admirable Qualities</h3>
+      <ul>
+        <li>Resilience</li>
+        <li>Compassion</li>
+        <li>Leadership</li>
+        <li>Empathy</li>
+        <li>Creativity</li>
+      </ul>
+    </div>
+  </section>
+  <footer>
+    <p>Created with admiration by Your Name</p>
+  </footer>
+</body>
+</html>
+
