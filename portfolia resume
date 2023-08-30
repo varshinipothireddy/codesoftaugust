@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>pothireddy varshini- Portfolio</title>
+</head>
+<body>
+  <header>
+    <div class="logo"> pothireddy varshini</div>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#resume">Resume</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <img src="your-image.jpg" alt="pothireddy varshini">
+    <p>
+      Hi, I'm Your pothireddy varshini! I'm a passionate web developer with experience in creating modern and user-friendly websites.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>c</li>
+      <li>python</li>
+      <li>Java</li>
+      <li>sql</li>
+      
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      
+      <h3>boston</h3>
+      <p>A speech recognistion technology</p>
+    </div>
+    <div class="project">
+      
+      <h3>milkalert</h3>
+      <p>adulteration detection using machine learning</p>
+    </div>
+    <!-- Add more projects as needed -->
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p>Download my <a href="resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: varshivarni21@email.com</p>
+    <p>Phone:  9014109985</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 pothireddy varshini. All rights reserved.</p>
+  </footer>
+</body>
+</html>
