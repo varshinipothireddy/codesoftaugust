@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Admiration Page</title>
+</head>
+<body>
+  <header>
+    <h1>Dedicated to My Role Model</h1>
+  </header>
+  <main>
+    <section class="intro">
+      <img src="profile-image.jpg" alt="Role Model">
+      <p>I admire [abdul kalam] for their [knowledge] and [contributions]. Their dedication, perseverance, and kindness inspire me every day.</p>
+    </section>
+    <section class="qualities">
+      <h2>Admirable Qualities</h2>
+      <ul>
+        <li>[kindness]</li>
+        <li>[motivater]</li>
+        <li>[hardworker]</li>
+        <!-- Add more qualities as needed -->
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2023 Admiration Page</p>
+  </footer>
+</body>
+</html>
